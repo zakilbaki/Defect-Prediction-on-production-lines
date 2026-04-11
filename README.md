@@ -57,6 +57,3 @@ Open `main.ipynb` and place the challenge files locally before running.
 - matplotlib
 - seaborn
 
-## Why This Repo Matters
-
-This is one of the strongest portfolio projects because it shows industrial data, class imbalance, leakage-aware validation, and practical model framing instead of generic benchmark work.
