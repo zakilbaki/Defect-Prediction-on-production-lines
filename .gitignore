@@ -10,3 +10,14 @@ models/
 *.parquet
 *.pkl
 *.joblib
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+data/*.csv
+artifacts/
+reports/figures/*.png
