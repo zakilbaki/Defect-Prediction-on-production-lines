@@ -104,9 +104,4 @@ pytest -q
 GitHub Actions runs these checks on every pull request without requiring the private
 local copy of the challenge data.
 
-## Current limitations
 
-- The clean pipeline must be rerun locally to publish its corrected chronological score.
-- No cost-sensitive operating threshold has been selected with production stakeholders.
-- Concept drift and reference-specific behavior need monitoring before deployment.
-- The repository provides a modeling baseline, not a production inference service.
