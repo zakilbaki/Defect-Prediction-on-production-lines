@@ -1,5 +1,6 @@
 # Industrial Defect Prediction
 
+
 [![CI](https://github.com/zakilbaki/Defect-Prediction-on-production-lines/actions/workflows/ci.yml/badge.svg)](https://github.com/zakilbaki/Defect-Prediction-on-production-lines/actions/workflows/ci.yml)
 
 An end-to-end industrial machine-learning project for detecting defective
