@@ -1,9 +1,5 @@
 # Industrial Defect Prediction
 
-> Collaborative origin: the initial machine-learning workshop was completed by
-> Raoul Hartmann, Zakaria Ouahabi, and Dominik Neumaier. This repository presents
-> the project as a consolidated, reproducible case study.
-
 [![CI](https://github.com/zakilbaki/Defect-Prediction-on-production-lines/actions/workflows/ci.yml/badge.svg)](https://github.com/zakilbaki/Defect-Prediction-on-production-lines/actions/workflows/ci.yml)
 
 An end-to-end industrial machine-learning project for detecting defective
